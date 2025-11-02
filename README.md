@@ -23,11 +23,6 @@ Tenho 17 anos e estou cursando meu ultimo ano do ensino médio na escola Sesi CE
 
 <div>
 
-  <!-- WhatsApp -->
-  <a href="https://wa.me/(11) 966231714" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-
   <!-- E-mail -->
   <a href="mailto:andradeerick937@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
