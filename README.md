@@ -22,9 +22,8 @@ Tenho 17 anos e estou cursando meu ultimo ano do ensino médio na escola Sesi CE
 
 <div>
  
-  <!-- E-mail -->
-  <a href="mailto:andradeerick937@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andradeerick937@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email via Gmail"/>
+</a>
+
 </div>
