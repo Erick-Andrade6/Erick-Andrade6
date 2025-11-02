@@ -2,9 +2,10 @@
 Tenho 17 anos e estou cursando meu ultimo ano do ensino médio na escola Sesi CE 125 e o técnico de Análise e Desenvolvimento de Sistemas no Senai, além de ter concluído o técnico de TI no IFSP
 
 # Meus Commits
-
 <div>
-  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=Erick-Andrade6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=Erick-Andrade6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+</div>
+
   
 # linguagens utilizadas
 <div style="display: inline_block"><br>
